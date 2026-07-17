@@ -1,9 +1,0 @@
-# Dataset
-
-This project uses the Home Credit Default Risk dataset.
-
-Download it from Kaggle:
-
-https://www.kaggle.com/competitions/home-credit-default-risk/data
-
-After downloading, place the required CSV files inside this folder before running the notebooks.
